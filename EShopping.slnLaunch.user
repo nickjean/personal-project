@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EShopping\\EShopping.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EShopping.Web\\EShopping.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthAPI\\AuthAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
